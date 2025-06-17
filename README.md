@@ -101,16 +101,6 @@
 
 <div align="center">
 
-### 🎯 Primary Connections
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aarchi-porwal-237407294)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00F5FF" /></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=FF0080" /></a>
-<a href="https://discord.gg/your-server"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=9d4edd" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=FFD700" /></a>
-
-### 💼 Professional Portals
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF7139&color=00F5FF" /></a>
-<a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4&color=FF0080" /></a>
-
 <br/><br/>
 
 ### 🤝 Collaboration Invitation
